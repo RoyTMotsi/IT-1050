@@ -7,6 +7,11 @@ namespace Section_3
     {
         static void Main(string[] args)
         {
+            
+        private string Name;
+        private int Grade;
+
+
         }
     }
 }
